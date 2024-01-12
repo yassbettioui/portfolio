@@ -16,7 +16,7 @@
             "outputPath": "dist/project-ang",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "baseHref": "./",
+            "baseHref": "/index.html",
             "polyfills": [
               "zone.js"
             ],
